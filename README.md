@@ -8,7 +8,7 @@ Adaptations towards datasets from other ORMs have to be done by the program user
 How to process datasets:
 ====================================
 
-1) Download this code from gitlab with:
+1) Download this code from GitHub with:
 
 > git clone git@github.com:AtMoDat/nc2atmodat.git
 
