@@ -10,7 +10,7 @@ How to process datasets:
 
 1) Download this code from gitlab with:
 
-> git clone git@gitlab.dkrz.de:memi/nc2atmodat.git
+> git clone git@github.com:AtMoDat/nc2atmodat.git
 
 2) Go to directory process_model_data
 
