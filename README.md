@@ -1,6 +1,9 @@
 # nc2atmodat                                                  
-Processing scripts for obstacle resolving model (ORM) datasets
-
+This repository contains processing scripts to apply the AtMoDat standard to obstacle resolving model (ORM) datasets.
+Requirements are netCDF datasets as input files. 
+Code is written in python. 
+This code is mainly adapted to MITRAS model datasest (https://www.mi.uni-hamburg.de/en/arbeitsgruppen/memi/modelle.html).
+Adaptations towards datasets from other ORMs have to be done by the program user.
 
 How to process datasets:
 ====================================
@@ -70,7 +73,7 @@ This directory contain the following files:
 
 - process_model_data.py      (Main script to run the code)
 - dict_OUTPUT_variables.py   (Pre-Selected output)
-- dict_cutsom_variables.py   (Additional variable information)
+- dict_custom_variables.py   (Additional variable information)
 - functions.py               (Functions to run the code)
 - Metadata_for_atmodat_standard.xlsx  (Metadata Information)
 
