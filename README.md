@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/854634108.svg)](https://zenodo.org/doi/10.5281/zenodo.13756812)
+
 # nc2atmodat                                                  
 This repository contains processing scripts to apply the AtMoDat standard to obstacle resolving model (ORM) datasets.
 Requirements are netCDF datasets as input files. 
